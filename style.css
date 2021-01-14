@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* navbar customizing */
+.penguin-nav li a{
+    font-family:'Roboto', sans-serif;
+}
+.text-highlight{
+    color: #FABE4C;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.penguin-button{
+    background-color: #A4BC46;
+    border: 0;
+}
+.penguin-cart{
+    color: white;
+}
+.penguin-header-bg{
+    background-color: #FFFBF0;
+}
+.card-header img{
+    height: 300px;   
+}
+.penguin-card-header{
+    border: 0;
+}
+.penguin-card{
+    height: 650px;
+    border: 0;
+    border-radius: 20px;
+}
+.penguin-miscellenous img{
+    height: 100px;
+    width: 100px;
+}
+.exclusive-offer img{
+    height: 320px;
+    width: 220px;
+    
+}
+.penguin-contact{
+    background-image: url("images/contact2.jpg");
+    background-position: relative;
+    background-size: cover;
+    height: 600px;
+}
